@@ -1,10 +1,6 @@
 # Simple Bash Utils
 
-Development of Bash text utilities: cat, grep.
-
-The russian version of the task can be found in the repository.
-
->💡 **Before starting work on your first project, fill out this [form](http://opros.so/kAnXy).**
+**Development of Bash text utilities: cat, grep.**
 
 ## Contents
 
@@ -146,5 +142,3 @@ Bonus assignment for extra points. You need to develop the grep utility:
 - Only pcre or regex libraries can be used for regular expressions.
 - The source, header and make files must be placed in the src/grep/ directory.
 - The resulting executable file must be placed in the directory src/grep/ and named s21_grep.
-
-💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
